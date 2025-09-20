@@ -5,5 +5,12 @@
   "scripts": {
     "start": "node index.js"
   },
-  "license": "ISC"
+  "license": "ISC",
+  "lockfileVersion": 3,
+  "requires": true,
+  "packages": {
+    "": {
+      "name": "movie-explorer"
+    }
+  }
 }
